@@ -1,5 +1,5 @@
 # IIT-B Internship
-This repository contains all(most) the projects I developed during my internship at IIT Bombay. 
+This repository contains all(most) of the projects I developed during my internship at IIT Bombay. 
 
 ## ESP32 Projects
 All the libraries and tools used to develop the projects within this repository can be found in the "Library & Tools" folder. Code has been references from multiple sources. **References can be found at the end of this document.**
